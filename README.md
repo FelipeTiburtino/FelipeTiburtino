@@ -25,13 +25,15 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 GitHub Analytics
+## 📚 Minha Jornada de Aprendizado
 
 <p align="center">
-  <a href="https://github.com/felipetiburtino">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipetiburtino&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  </a>
+  "Todo expert um dia foi iniciante. O segredo é começar e continuar aprendendo." 🌱
 </p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipetiburtino&layout=compact&theme=midnight-purple&hide_border=true" alt="Linguagens mais usadas" />
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
