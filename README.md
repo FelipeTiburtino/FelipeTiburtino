@@ -1,6 +1,6 @@
 <div align="center">
   
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=8B008B&center=true&vCenter=true&random=false&width=600&lines=Olá%2C+Bem-vindo+ao+meu+GitHub!+👋)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=8B008B&center=true&vCenter=true&random=false&width=600&lines=Bem-vindo+ao+meu+GitHub!+👋)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=felipetiburtino&label=Visualizações&color=8B008B&style=for-the-badge" alt="Visualizações do perfil" />
 
