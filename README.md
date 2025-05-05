@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Meu Perfil • GitHub</title>
+  <title>Perfil • Felipe Tiburtino Meireles</title>
   <style>
     * { margin:0; padding:0; box-sizing:border-box; }
     body { font-family:'Segoe UI', Tahoma, sans-serif; line-height:1.6; color:#333; background:#f5f5f5; padding:1rem; }
@@ -30,13 +30,13 @@
 </head>
 <body>
   <header class="header">
-    <img src="https://github.com/SEU_USUARIO.png" alt="Avatar" class="avatar">
-    <h1>Seu Nome</h1>
+    <img src="https://github.com/FelipeTiburtino.png" alt="Avatar" class="avatar">
+    <h1>Felipe Tiburtino Meireles</h1>
     <p class="bio">Desenvolvedor Full-stack | Apaixonado por IA, Web3 e código limpo.</p>
-    <p class="location">São Paulo, Brasil</p>
+    <p class="location">Brasil</p>
     <div class="social-links">
-      <a href="https://twitter.com/SEU_USUARIO" target="_blank">Twitter</a>
-      <a href="https://linkedin.com/in/SEU_USUARIO" target="_blank">LinkedIn</a>
+      <a href="https://twitter.com/FelipeTiburtino" target="_blank">Twitter</a>
+      <a href="https://linkedin.com/in/FelipeTiburtino" target="_blank">LinkedIn</a>
     </div>
   </header>
 
@@ -69,7 +69,7 @@
 #!/usr/bin/env python3
 import requests
 
-USERNAME = "SEU_USUARIO"
+USERNAME = "FelipeTiburtino"
 API_URL = f"https://api.github.com/users/{USERNAME}/repos"
 MAX_REPOS = 6
 
@@ -90,7 +90,7 @@ def generate_html(repos):
       <h3><a href="{url}" target="_blank">{name}</a></h3>
       <p>{desc}</p>
     </div>''')
-    return "<div class=\"repos-grid\">"+ "".join(cards) +"</div>"
+    return "<div class=\\"repos-grid\\">"+ "".join(cards) +"</div>"
 
 def main():
     repos = fetch_repos()
