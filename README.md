@@ -6,7 +6,7 @@
     <td align="center" style="padding: 0; background-color: #8B008B; border-radius: 16px; border: none;">
       <div style="padding: 20px; color: white;">
         <h1 style="color: white; font-size: 28px; margin-bottom: 10px;">✨ Felipe Tiburtino ✨</h1>
-        <p style="color: #f3e5f5; font-size: 18px; margin-top: 0;">Desenvolvedor Web & Python Enthusiast</p>
+        <p style="color: #f3e5f5; font-size: 18px; margin-top: 0;">Desenvolvedor Web & Computer Networks</p>
       </div>
     </td>
   </tr>
@@ -39,6 +39,8 @@
   <img align="center" alt="Python" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="HTML" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="C" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Java" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
