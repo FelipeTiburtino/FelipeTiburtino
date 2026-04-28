@@ -1,38 +1,37 @@
 # Hi, I'm Felipe Meireles 
 
-Backend Developer focused on scalable systems, API development and database architecture.
-
-I work mainly with Java and Spring Boot, building backend applications with strong database integration, clean architecture and maintainable code.
-
-I also have experience with Node.js, FastAPI, automation workflows and backend solutions designed to solve real business problems.
-
-My focus is simple: building efficient, reliable and scalable systems.
-
 ---
 
-##  Tech Stack
+##  Technical Skills
 
-### Languages
+### Programming Languages
 Java • SQL • Python • JavaScript • C
 
-### Backend
-Spring Boot • Node.js • FastAPI • REST APIs • Authentication • System Integrations
+### Software Development
+Spring Boot • Node.js • FastAPI • REST APIs • System Integrations • Authentication • Automation Workflows
 
 ### Database
-MySQL • SQL Server • Relational Modeling • Query Optimization • Database Architecture
+MySQL • SQL Server • Relational Modeling • Query Optimization • Database Architecture • Data Structure
+
+### Computer Networks
+VLAN • DHCP • Switching • Routing • NAT • Static Routing • Trunk • STP • EtherChannel • LACP • Inter-VLAN Routing
+
+### Infrastructure
+Linux • Computer Architecture • Network Administration • Troubleshooting • Enterprise Network Topologies
 
 ### Tools
-Git • GitHub • Linux • Maven • IntelliJ IDEA • VS Code • API Integrations
+Git • GitHub • Maven • IntelliJ IDEA • VS Code • Cisco Packet Tracer • API Integrations
 
 ---
 
 ##  Core Strengths
 
-- Backend system development
+- Software architecture and scalable systems
 - API design and integrations
-- Database architecture and optimization
-- Process automation
-- Problem solving
+- Database optimization and relational modeling
+- Network infrastructure and enterprise topology design
+- Process automation and system efficiency
+- Troubleshooting and analytical problem solving
 - Fast adaptation to new technologies
 
 ---
