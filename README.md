@@ -1,4 +1,4 @@
-# Hi, I'm Felipe Meireles 👋
+# Hi, I'm Felipe Meireles 
 
 Backend Developer focused on scalable systems, API development and database architecture.
 
@@ -10,7 +10,7 @@ My focus is simple: building efficient, reliable and scalable systems.
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 ### Languages
 Java • SQL • Python • JavaScript • C
@@ -26,7 +26,7 @@ Git • GitHub • Linux • Maven • IntelliJ IDEA • VS Code • API Integra
 
 ---
 
-## 💡 Core Strengths
+##  Core Strengths
 
 - Backend system development
 - API design and integrations
@@ -37,18 +37,14 @@ Git • GitHub • Linux • Maven • IntelliJ IDEA • VS Code • API Integra
 
 ---
 
-## 🌍 Professional Skills
+##  Professional Skills
 
 - Fluent English for technical environments
 - Native Portuguese speaker
-- Strong autonomy
-- Ownership mindset
-- Clear technical communication
-- Focus on scalable solutions
 
 ---
 
-## 📫 Connect with Me
+##  Connect with Me
 
 ### LinkedIn
 https://www.linkedin.com/in/felipe-meireles-00b1b9360/
