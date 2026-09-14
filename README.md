@@ -1,52 +1,31 @@
-# Hi, I'm Felipe Meireles 
+### Felipe Meireles
+
+Computer Science and Computer Networks student, focused on back-end development and systems infrastructure.
+
+Currently deepening my knowledge of **Go**, with a solid foundation in **Linux** and **computer networking**.
 
 ---
 
-##  Technical Skills
+**Core Stack**
 
-### Programming Languages
-Java • SQL • Python • JavaScript • C
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-### Software Development
-Spring Boot • Node.js • FastAPI • REST APIs • System Integrations • Authentication • Automation Workflows
+**Networking & Infrastructure**
 
-### Database
-MySQL • SQL Server • Relational Modeling • Query Optimization • Database Architecture • Data Structure
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
+VLAN · Switching · Routing · NAT · STP · EtherChannel · Inter-VLAN Routing
 
-### Computer Networks
-VLAN • DHCP • Switching • Routing • NAT • Static Routing • Trunk • STP • EtherChannel • LACP • Inter-VLAN Routing
+**Tools**
 
-### Infrastructure
-Linux • Computer Architecture • Network Administration • Troubleshooting • Enterprise Network Topologies
-
-### Tools
-Git • GitHub • Maven • IntelliJ IDEA • VS Code • Cisco Packet Tracer • API Integrations
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+VS Code · Cisco Packet Tracer
 
 ---
 
-##  Core Strengths
+**Contact**
 
-- Software architecture and scalable systems
-- API design and integrations
-- Database optimization and relational modeling
-- Network infrastructure and enterprise topology design
-- Process automation and system efficiency
-- Troubleshooting and analytical problem solving
-- Fast adaptation to new technologies
-
----
-
-##  Professional Skills
-
-- Fluent English for technical environments
-- Native Portuguese speaker
-
----
-
-##  Connect with Me
-
-### LinkedIn
-https://www.linkedin.com/in/felipe-meireles-00b1b9360/
-
-### Email
-felipetmeireles@outlook.com
+[LinkedIn](https://www.linkedin.com/in/felipe-meireles-00b1b9360/) · [felipetmeireles@outlook.com](mailto:felipetmeireles@outlook.com)
